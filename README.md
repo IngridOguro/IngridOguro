@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-In 2018, I discovered a passion for coding, igniting my journey into the world of technology. Beginning with Python, I have since dedicated myself to pursuing a career in full stack web development. I strongly believe that technology can improve lives, including my own, and I want to be a part of making that happen. With each line of code, I am crafting my own narrative towards knowledge and success.
+In 2020, I discovered a passion for coding, igniting my journey into the world of technology. Beginning with Python, I have since dedicated myself to pursuing a career in full stack web development. I strongly believe that technology can improve lives, including my own, and I want to be a part of making that happen. With each line of code, I am crafting my own narrative towards knowledge and success.
 
 * 🌍  I'm based in São Paulo/SP Brazil
 * 🚀  I'm currently working on [CuriousCat-Pay](http://github.com/Mitisuaki/CuriousCat-Pay)
