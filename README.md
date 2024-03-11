@@ -16,24 +16,18 @@ With each line of code, I am crafting my own narrative towards knowledge and suc
 * 🤝  I'm open to collaborating on python projects, front-end projects
 
 ## Skills
-<div style="display: flex; justify-content:center;">
-    <div style="flex: 1;">
+<a>
 <table>
+    <th>Core</th>
+    <th>Frontend</th>
     <tr>
         <td>
-
-#### Core
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 </td>
-        <td>
-        
-#### Frontend
-
+<td>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -41,27 +35,18 @@ With each line of code, I am crafting my own narrative towards knowledge and suc
 </td>
     </tr>
     <tr>
+        <th>Backend</th>
+        <th>Software</th>
+    </tr>
+    <tr>
         <td>
-        
-#### Backend
-
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </td>
         <td>
-        
-#### Software
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </td>
     </tr>
-    </table>
-    </div>
-    <div style="flex: 1;">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridOguro&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/>
-    </div>
-</div>
-<a href="github.com/IngridOguro">
-   <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=IngridOguro&theme=github&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Commits%20Graph" alt="GitHub Commits Graph" /> 
- </a> 
+    </table></a>
 
 ### Socials
 
