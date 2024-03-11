@@ -56,7 +56,7 @@ With each line of code, I am crafting my own narrative towards knowledge and suc
     </table>
     </div>
     <div style="flex: 1;">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridOguro&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile" style="height:100%;width:100%"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridOguro&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/>
     </div>
 </div>
 <a href="github.com/IngridOguro">
