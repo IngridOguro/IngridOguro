@@ -15,7 +15,7 @@ ________________________________
 <table>
 <tr><th >Skills</th>
 <th>Statistics</th></tr>
-<tr><td width=50%>
+<tr><td width=50% align="center">
 
 |||
 |--|--|
@@ -25,8 +25,9 @@ ________________________________
 |Software|<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma">|
 </td>
 <!-- Git stats -->
-<td width=50%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridOguro&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=IngridOguro&theme=github&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Commits%20Graph" alt="GitHub Commits Graph" />
+<td width=50%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridOguro&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=35EC7E&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=IngridOguro&bg_color=00000000&color=F361FA&point=F361FA&line=35EC7E&area=true&hide_border=true"/>
 </td></tr></table>
 
 
