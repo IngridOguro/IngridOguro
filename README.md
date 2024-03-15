@@ -4,12 +4,16 @@ In 2020, I discovered a passion for coding, igniting my journey into the world o
 Beginning with Python, I have since dedicated myself to pursuing a career in full stack web development.<br> 
 I strongly believe that technology can improve lives, including my own, and I want to be a part of making that happen.<br>
 With each line of code, I am crafting my own narrative towards knowledge and success.
+<br>
+________________________________
+<br>
+I am:
 
-* 🌍  I'm based in São Paulo/SP - Brazil
-* 🚀  I'm currently working on
+* 🌍  Based in São Paulo/SP - Brazil
+* 🚀  Currently working on
 <a href="http://github.com/Mitisuaki/CuriousCat-Pay" style="color:WhiteSmoke;"><u>CuriousCat-Pay</u></a>
-* 🧠  I'm learning <strong style="color:#CC1DD8;" >Javascript, Typescript, CSS, HTML, C#, Angular, Bootstrap</strong>
-* 🤝  I'm open to collaborating on python projects, front-end projects
+* 🧠  Learning <strong style="color:#CC1DD8;" >Javascript, Typescript, CSS, HTML, C#, Angular, Bootstrap</strong>
+* 🤝  Open to collaborating on python projects, front-end projects
 
 ________________________________
 <table>
