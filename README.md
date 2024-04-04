@@ -8,8 +8,7 @@ With each line of code, I am crafting my own narrative towards knowledge and suc
 <br>
 
 * 🌍  Based in São Paulo/SP - Brazil
-* 🚀  Currently working on
-<a href="http://github.com/Mitisuaki/CuriousCat-Pay" style="color:WhiteSmoke;"><u>CuriousCat-Pay</u></a>
+* 🚀  Currently studying on Oracle Next Education Program
 * 🧠  Learning <strong style="color:#CC1DD8;" >Javascript, Typescript, CSS, HTML, C#, Angular, Bootstrap</strong>
 * 🤝  Open to collaborating on python projects, front-end projects
 
