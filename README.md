@@ -9,7 +9,7 @@ With each line of code, I am crafting my own narrative towards knowledge and suc
 
 * 🌍  Based in São Paulo/SP - Brazil
 * 🚀  Currently studying on Oracle Next Education Program
-* 🧠  Learning <strong style="color:#CC1DD8;" >Javascript, Typescript, CSS, HTML, C#, Angular, Bootstrap</strong>
+* 🧠  Learning <strong style="color:#CC1DD8;" >Javascript, Typescript, CSS, HTML, C#, Angular, Bootstrap, React</strong>
 * 🤝  Open to collaborating on python projects, front-end projects
 
 ________________________________
