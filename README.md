@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h1 style="color:#CC1DD8;">Web Developer</h1>
 In 2020, I discovered a passion for coding, igniting my journey into the world of technology.<br>
 Beginning with Python, I have since dedicated myself to pursuing a career in web development.<br> 
-For now, I'm focusing on Front-end development. <br>
+<br>
 I strongly believe that technology can improve lives, including my own, and I want to be a part of making that happen.<br>
 With each line of code, I am crafting my own narrative towards knowledge and success. <br>
 <br>
