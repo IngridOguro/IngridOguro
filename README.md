@@ -6,8 +6,7 @@ With each line of code, I am crafting my own narrative towards knowledge and suc
 
 * 🌍  Based in São Paulo/SP - Brazil
 * 🧠  Learning <strong style="color:#CC1DD8;" >C#, .Net, Angular, React</strong>
-<br>
-<h1>SKILLS</h1>
+<h2>SKILLS</h2>
 <table>
     <tr>
         <td>Core</td>
@@ -53,21 +52,12 @@ With each line of code, I am crafting my own narrative towards knowledge and suc
         </td>
     </tr>
 </table>
-
-<br>
-<h1>STATISTICS</h1>
+<h2>STATISTICS</h2>
 <!-- Git stats -->
-<td width=50%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridOguro&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=35EC7E&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=IngridOguro&bg_color=00000000&color=F361FA&point=F361FA&line=35EC7E&area=true&hide_border=true"/>
-</td></tr></table>
-
-
-#### Socials
-<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridOguro&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=35EC7E&hide_border=true"/>
+<h2>SOCIALS</h2>
 <a href="https://www.github.com/IngridOguro" target="_blank" rel="noreferrer"> 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ingrid-oguro/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> 
 </a>
-</p>
